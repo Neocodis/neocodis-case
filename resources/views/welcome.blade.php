@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <p>Nienawidze Laravela - programista</p>
             </div>
         </div>
     </body>

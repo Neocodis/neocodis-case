@@ -11,6 +11,23 @@
 |
 */
 
-Route::get('/', function () {
+//refers to the URL /welcome
+Route::get('/welcome', function () {
     return view('welcome');
+});
+
+//refers to the URL /database-test
+Route::get('database-test',function(){
+   if( DB::connection()->getDatabaseName() )
+   {
+       echo 'Connected successfully to database ' . DB::connection()->getDatabaseName();
+   }
+});
+
+Route::get('movies', function(){
+    $movies = App\Movie::all();
+    
+    echo'<pre>';
+    print_r($movies);
+    echo'</pre>';
 });
