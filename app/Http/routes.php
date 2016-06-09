@@ -12,6 +12,9 @@
 */
 
 //refers to the URL /welcome
+Route::get('/', 'SiteController@index');
+
+/*
 Route::get('/welcome', function () {
     return view('welcome');
 });
@@ -24,10 +27,6 @@ Route::get('database-test',function(){
    }
 });
 
-Route::get('movies', function(){
-    $movies = App\Movie::all();
-    
-    echo'<pre>';
-    print_r($movies);
-    echo'</pre>';
-});
+Route::get('movies', 'MovieController@index');
+
+ */
