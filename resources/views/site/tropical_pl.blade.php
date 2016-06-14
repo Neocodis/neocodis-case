@@ -18,7 +18,7 @@ Ale kiedy firma przestaje być twórcza, kiedy uważa, że osiągnęła doskona�
 Słynne słowa Pana Forda są domeną, którą bardzo często kierują się firmy odnoszące wielkie sukcesy. Także w Neocodis staramy się być twórczy i innowacyjni oraz podejmować nowe wyzwania. Dlatego chcielibyśmy, przedstawić Wam jedno z najciekawszych wyzwań, które zostało przed nami postawione pod koniec zeszłego roku. Zgłosił się do nas przedstawiciel firmy Tropical. Każdemu kto miał jakąkolwiek styczność z akwarystyką lub terrarystyką nie trzeba przedstawiać tej marki, jednak dla tych, którzy jakimś cudem uchowali się nie słysząc o nich mamy krótkie wyjaśnienie.
 </p>
 
-<img src="img/temp/tropical/logo.png" class="logo_photo"/>
+<img src="/img/temp/tropical/logo.png" class="logo_photo"/>
 
 <p class="desc">
     Firma Tropical powstała w 1977 roku. Dzięki systematycznemu rozwojowi i ciągłemu stawianiu na innowacyjność i wysoką jakość stała się liderem w dziedzinie akwarystyki nie tylko na polskim rynky, ale również światowym. Stale rozwija ofertę swoich produktów oraz gałęzie biznesu i oferuje dziś około 700 pozycji asortymentowych dla zwierząt domowych. Jednak to co nas urzeka w tej firmie to dbałość o środowisko naturalne, która przekłada się na realne inwestycje, a nie tylko puste deklaracje. Zakończona w 2009 roku rozbudowa przedsiębiorstwa obejmowała między innymi budowę ogromnego biofiltra wyposażonego w złoże biologiczne, które zapewnia między innymi produkcję bezodorową, pochłaniając wszystko to, co może być uciążliwe dla środowiska naturalnego (<a href="http://www.tropical.pl/o-firmie/" target="_blank" class="link1 anim">czytaj więcej</a>). To były główne powody, dla których bardzo entuzjastycznie podeszliśmy do możliwości współpracy, bo jak wiecie Neocodis od dawna stara się wspierać firmy przyjazne środowisku naturalnemu. Dodatkowym atutem był fakt, że siedziby obu naszych firm zlokalizowane są po sąsiedzku.
@@ -32,7 +32,7 @@ Tropical rozpoczoł naszą współpracę od wsparcia współorganizowanego przez
         </div>
     </div>
 </div>
-<img src="img/temp/tropical/1.png" class="desc_photo"/>
+<img src="/img/temp/tropical/1.png" class="desc_photo"/>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
@@ -44,7 +44,7 @@ Tropical rozpoczoł naszą współpracę od wsparcia współorganizowanego przez
         </div>
     </div>
 </div>
-<img src="img/temp/tropical/2.jpg" class="desc_photo"/>
+<img src="/img/temp/tropical/2.jpg" class="desc_photo"/>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
@@ -57,7 +57,7 @@ Tropical rozpoczoł naszą współpracę od wsparcia współorganizowanego przez
         </div>
     </div>
 </div>
-<img src="img/temp/tropical/3.jpg" class="desc_photo"/>
+<img src="/img/temp/tropical/3.jpg" class="desc_photo"/>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
@@ -70,7 +70,7 @@ Nasza współpraca układała się bardzo dobrze, więc dostaliśmy kolejne zlec
         </div>
     </div>
 </div>
-<img src="img/temp/tropical/4.jpg" class="desc_photo"/>
+<img src="/img/temp/tropical/4.jpg" class="desc_photo"/>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
@@ -83,7 +83,7 @@ W międzyczasię aktualizacji wymagała główna strona firmy - <a href="http://
         </div>
     </div>
 </div>
-<img src="img/temp/tropical/5.jpg" class="desc_photo"/>
+<img src="/img/temp/tropical/5.jpg" class="desc_photo"/>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">

@@ -12,7 +12,29 @@
 */
 
 //refers to the URL /welcome
-Route::get('/', 'SiteController@index');
+
+/*
+Route::get('/', function (Request $r){
+    
+    $r->session()->put('lang', 'PL');
+    
+    return $r->session()->get(user);
+});
+*/
+
+
+
+
+
+Route::get('/','SiteController@tropical_pl');
+
+Route::get('tropical/pl','SiteController@tropical_pl');
+Route::get('tropical/en','SiteController@tropical_en');
+
+Route::get('zss6/pl','SiteController@zss6_pl');
+Route::get('zss6/en','SiteController@zss6_en');
+
+//Route::get('site/index/{type}/{lang}', 'SiteController@index');
 
 /*
 Route::get('/welcome', function () {
