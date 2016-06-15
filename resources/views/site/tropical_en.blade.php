@@ -21,7 +21,7 @@
 <img src="/img/temp/tropical/logo.png" class="logo_photo"/>
 
 <p class="desc">
-    Tropical was established in 1977. Thanks to systematic growth and constant focus on innovation and highest quality, the company became a leading brand on the polish and global market. It continues to grow its product range and business branches, offering over 700 products for domestic pets. What captivates us the most, is the attention Tropical pays to natural environment protection and ecology. These are not just declarations, but real investments. While extending their facilities in 2009, they built a huge biofilter, equipped with biological deposit, which ensures odor-free production, absorbing all elements, which could be troublesome for the community and the environment  (<a href="http://www.tropical.pl/o-firmie/" target="_blank" class="link1 anim">czytaj więcej</a>). These were main reasons for our enthusiastic approach to this collaboration, because at Neocodis our mission is to support sustainable companies. Apart from that, our companies are almost neighbours location-wise.
+    Tropical was established in 1977. Thanks to systematic growth and constant focus on innovation and highest quality, the company became a leading brand on the polish and global market. It continues to grow its product range and business branches, offering over 700 products for domestic pets. What captivates us the most, is the attention Tropical pays to natural environment protection and ecology. These are not just declarations, but real investments. While extending their facilities in 2009, they built a huge biofilter, equipped with biological deposit, which ensures odor-free production, absorbing all elements, which could be troublesome for the community and the environment  (<a href="http://www.tropical.pl/en/about-us/" target="_blank" class="link1 anim">read more</a>). These were main reasons for our enthusiastic approach to this collaboration, because at Neocodis our mission is to support sustainable companies. Apart from that, our companies are almost neighbours location-wise.
 </p>
 
 
@@ -38,7 +38,7 @@
         <div class="col-md-12">
             
 <p class="desc">
-    As a next step, we designed and developed a brand new website for Tropical’ BIFLORIN product range - <a href="http://www.wyjatkowyogrod.pl" target="_blank" class="link1 anim">www.wyjatkowyogrod.pl</a>, which includes a full blown Content Management System. The website accompanied by a promotional video that we created, helped to present their products at <a href="http://gardenia.mtp.pl/" target="_blank" class="link1 anim">Gardenia</a>. It all started with orchids, geraniums and conifers...
+    As a next step, we designed and developed a brand new website for Tropical’ BIFLORIN product range - <a href="http://www.wyjatkowyogrod.pl" target="_blank" class="link1 anim">www.wyjatkowyogrod.pl</a>, which includes a full blown Content Management System. The website accompanied by a promotional video that we created, helped to present their products at <a href="http://gardenia.mtp.pl/en/" target="_blank" class="link1 anim">Gardenia</a>. It all started with orchids, geraniums and conifers...
 </p>
 
         </div>
@@ -77,7 +77,7 @@
 
 
 <p class="desc">
-    In the meantime we delivered a few updates made to Tropical’s official website - <a href="http://www.tropical.pl" target="_blank" class="link1 anim">www.tropical.pl</a>. This initiated the planning of a new, revamped Tropical.pl platform. This challenge, as well as launching of a new, fourth website for Tropical (a contest website) will keep us focused in the upcoming months.
+    In the meantime we delivered a few updates made to Tropical’s official website - <a href="http://www.tropical.pl/en/" target="_blank" class="link1 anim">www.tropical.pl</a>. This initiated the planning of a new, revamped Tropical.pl platform. This challenge, as well as launching of a new, fourth website for Tropical (a contest website) will keep us focused in the upcoming months.
 </p>
 
         </div>

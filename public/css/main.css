@@ -7,7 +7,7 @@ a, a:hover{
     text-decoration: none !important;
 }
 .h3{
-    margin-top:50px;
+    margin:50px 2% 0px 2%;
     font-weight: bold;
     font-size: 32px;
 }
@@ -121,7 +121,7 @@ a, a:hover{
 
 /*** right ***/
 .desc{
-    margin:30px 0px;
+    margin:30px 2%;
 }
 .desc_photo{
     margin:30px 0px;
