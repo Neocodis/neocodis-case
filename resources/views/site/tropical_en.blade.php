@@ -92,24 +92,11 @@
 <p class="desc">
     You are probably wondering why are we sharing this article? We wanted to tell you about our philosophy and prove that polish companies can work together hand in hand on the international market by sharing  mutual values, such as believing in constant innovation and taking real action to protect natural environment, delivering high quality products, which compete and oftentimes win with international brands.
 </p>
-
-           
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+        
         </div>
     </div>
 </div>
+
+@include('parts.check_page')
+
 @endsection

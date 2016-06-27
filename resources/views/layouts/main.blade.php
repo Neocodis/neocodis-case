@@ -2,7 +2,12 @@
 <html>
     <head>
         <title>Neocodis: Case Studies</title>
+        <link href="/favicon.ico" type="image/x-icon" rel="icon">
+        <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
+        
+        <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
         
         <!-- jQuery and jQueryUI -->
         <script src="/plugins/jquery-ui-1.11.4.custom/external/jquery/jquery.js"></script>
@@ -23,8 +28,12 @@
     <body>
         <div class="menu_mini">X</div>
         <div class="left"><div class="left_in">@include('parts.left')</div></div>
-        
-        <div class="right">@yield('content')</div>
+        <div class="right
+             <?php 
+             if(in_array($element['Helper']['site'], array('zss6'))){ echo ' right_white '; } 
+             elseif(in_array($element['Helper']['site'], array('shecco'))){ echo ' right_white '; } 
+             ?>
+             ">@yield('content')</div>
         
         <div class="sm"><div class="sm_in">@include('parts.sm')</div></div>
         

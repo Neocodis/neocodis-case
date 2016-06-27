@@ -12,6 +12,7 @@
         </div>
     </div>
 </div>
+    
+    @include('parts.check_page')
 
-@include('parts.check_page')
 @endsection

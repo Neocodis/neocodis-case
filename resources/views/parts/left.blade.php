@@ -24,6 +24,7 @@
             <ul class="list_projects">
                 <li><a class="list_site <?php if($element['Helper']['site']=='tropical'){ echo ' list_site_active ';} ?>" href="/tropical/{{ $element['Helper']['lang'] }}">Tropical</a></li>
                 <li><a class="list_site <?php if($element['Helper']['site']=='zss6'){ echo ' list_site_active ';} ?>" href="/zss6/{{ $element['Helper']['lang'] }}">ZSS6</a></li>
+                <li><a class="list_site <?php if($element['Helper']['site']=='shecco'){ echo ' list_site_active ';} ?>" href="/shecco/{{ $element['Helper']['lang'] }}">shecco</a></li>
             </ul>
         </div>
     </div>

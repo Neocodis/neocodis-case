@@ -93,23 +93,9 @@ W międzyczasię aktualizacji wymagała główna strona firmy - <a href="http://
 Pewnie nasówa Wam się zasadnicze pytanie dlaczego zamieściliśmy ten opis? Chcieliśmy pokażać filozofię jaką kieruje się Neocodis oraz udowodnić, że polskie firmy potrafią działać ramię w ramię na międzynarodowym rynku, kierując się porządanymi wartościami jak innowacyjność i ochrona środowiska, ostatecznie dostarczając wysokiej jakości produkty mogące konkurować, a nawet skutecznie zwyciążać z zagranicznymi markami. 
 </p>
 
-           
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
         </div>
     </div>
 </div>
+@include('parts.check_page')
+
 @endsection
