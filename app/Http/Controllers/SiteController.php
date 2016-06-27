@@ -36,6 +36,20 @@ class SiteController extends Controller{
         
         return view('site.zss6_en', [ 'element' => $element ]);
     }
+    function shecco_pl(){
+        $element = array();
+        $element['Helper']['site'] = 'shecco';
+        $element['Helper']['lang'] = 'pl';
+        
+        return view('site.shecco_pl', [ 'element' => $element ]);
+    }
+    function shecco_en(){
+        $element = array();
+        $element['Helper']['site'] = 'shecco';
+        $element['Helper']['lang'] = 'en';
+        
+        return view('site.shecco_en', [ 'element' => $element ]);
+    }
     
     
 }

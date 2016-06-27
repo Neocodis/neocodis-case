@@ -34,6 +34,9 @@ Route::get('tropical/en','SiteController@tropical_en');
 Route::get('zss6/pl','SiteController@zss6_pl');
 Route::get('zss6/en','SiteController@zss6_en');
 
+Route::get('shecco/pl','SiteController@shecco_pl');
+Route::get('shecco/en','SiteController@shecco_en');
+
 //Route::get('site/index/{type}/{lang}', 'SiteController@index');
 
 /*
